@@ -1,11 +1,5 @@
 # :wave: Hi, I'm Wade Edwards
-
-![Twitter](https://img.shields.io/badge/alpacaslacks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/wadecedwards-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 I am  a self/community-taught web developer. 
-After years of working factory jobs that didn't challenge me, didn't pay much, and frankly, bored the pants off me, 
-I finally found something to make the job-side of my life fulfilling!
 
 
 ## :computer: Tech I use
