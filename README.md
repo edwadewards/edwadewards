@@ -1,8 +1,11 @@
 # :wave: Hi, I'm Wade Edwards
 :computer: I am  a self/community-taught HTML Email Developer & Frontend Developer.
+
 :world_map: Gadsden, Alabama
+
 :mag: Currently looking for work
-:link: ![My Website](https://wadecdev.netlify.app/)
+
+:link: !My Website (https://wadecdev.netlify.app/)
 
 
 ## :computer: Tech I use
