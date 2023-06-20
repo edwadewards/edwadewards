@@ -17,7 +17,6 @@ I am  a self/community-taught web developer.
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ## :bar_chart: Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=edwadewards&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edwadewards&langs_count=5&theme=tokyonight)]()
 
