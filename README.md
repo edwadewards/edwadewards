@@ -5,7 +5,7 @@
 
 :mag: Currently looking for work
 
-:link: [My Website](https://wadecdev.netlify.app/)
+:link: [My Website](https://www.wadecedwards.com/)
 
 
 ## :computer: Tech I use
